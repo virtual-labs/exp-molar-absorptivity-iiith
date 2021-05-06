@@ -1,0 +1,1 @@
+- To determine the molar absorptivity of a light absorbing molecule
