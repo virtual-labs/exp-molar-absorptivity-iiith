@@ -1,4 +1,4 @@
-**Pre-experiment Quiz**
+**Pre-Assignments**
 
 1. What is a calibration curve?
 2. If the concentration is expressed in mol.m -3 and path length is expressed in meters, then what will be the units of ε? Relate it tothe units when the concentration is expressed in mol.L <sup>-1</sup> and path length is expressed in cm.
@@ -7,7 +7,7 @@
 5. Two solutions of two substances are showing the same color intensity, even though concentration of one substance is far below the concentration of the other. Why does it happen so?
 
 
-**Post-experiment Quiz**
+**Post-Assignments**
 
 1. What are main peak positions in aqueous 2-nitroaniline solutions? What are the origins of such peak positions?
 2. Why are the absorbance values of a given concentration of 2-nitroaniline different for three different peak positions?
